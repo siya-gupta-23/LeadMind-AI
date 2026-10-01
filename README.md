@@ -206,7 +206,8 @@ Start the frontend using the configured development command.
 
 ### 🔐 Login
 
-_Add Login screenshot here_
+<img width="1325" height="706" alt="leads" src="https://github.com/user-attachments/assets/cf83e646-256c-4f8d-a9b1-0a4c72b8b2f4" />
+
 
 ### 📊 Dashboard
 
