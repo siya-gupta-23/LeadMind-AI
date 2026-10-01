@@ -204,14 +204,16 @@ Start the frontend using the configured development command.
 
 ## 🖼️ Screenshots
 
-### 🔐 Login
+### 👥 Leads and 🗂️ Kanban Pipeline
 
 <img width="1325" height="706" alt="leads" src="https://github.com/user-attachments/assets/cf83e646-256c-4f8d-a9b1-0a4c72b8b2f4" />
 
 
 ### 📊 Dashboard
+with drag and drop feature
 
-_Add Dashboard screenshot here_
+<img width="1366" height="712" alt="Status Board" src="https://github.com/user-attachments/assets/10d53a32-0de0-4730-a669-3be69688337c" />
+
 
 ### 👥 Leads
 
