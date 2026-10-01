@@ -257,38 +257,6 @@ npm install
 
 Start the frontend using the project's configured development command.
 
-🖼️ Screenshots
-
-📌 Application screenshots will be added here.
-
-🔐 Login
-
-
-
-📊 Dashboard
-
-
-
-👥 Leads
-
-
-
-🗂️ Kanban Pipeline
-
-
-
-📈 Analytics
-
-
-
-🤖 AI Features
-
-
-
-📌 Current Status
-
-✅ Core application implemented
-
 Frontend and backend integrated
 
 Authentication and authorization implemented
