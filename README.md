@@ -209,31 +209,14 @@ Start the frontend using the configured development command.
 <img width="1325" height="706" alt="leads" src="https://github.com/user-attachments/assets/cf83e646-256c-4f8d-a9b1-0a4c72b8b2f4" />
 
 
-### 📊 Dashboard
-with drag and drop feature
+### 📊 Statusboard
+With Drag and Drop Feature
 
 <img width="1366" height="712" alt="Status Board" src="https://github.com/user-attachments/assets/10d53a32-0de0-4730-a669-3be69688337c" />
 
-
-### 👥 Leads
-
-_Add Leads screenshot here_
-
-### 🗂️ Kanban Pipeline
-
-_Add Kanban screenshot here_
-
 ### 📈 Analytics
+<img width="1347" height="723" alt="Analytics" src="https://github.com/user-attachments/assets/93a24504-b810-48d3-b721-c2dff88f5e93" />
 
-_Add Analytics screenshot here_
-
-### 🤖 AI Features
-
-_Add AI feature screenshot here_
-
----
-
-## 📌 Current Status
 
 ### ✅ Core Application Implemented
 
